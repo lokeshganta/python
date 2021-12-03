@@ -5,4 +5,4 @@ just a trial of github
 ### heading 3
 #### .....
 ###### we can give upto 6
-~hi how are you~
+~~hi how are you~~
